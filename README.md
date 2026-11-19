@@ -13,4 +13,4 @@ built on 5 years of NSE data.
 - [ ] Module 4: VaR backtesting
 - [ ] Module 5: Stress testing and Greeks exposure
 - [ ] Module 6: Power BI dashboard
-- [ ] Module 7: Risk memo
+- [ ] Module 7: Risk memo 

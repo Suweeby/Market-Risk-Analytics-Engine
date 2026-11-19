@@ -7,7 +7,7 @@ built on 5 years of NSE data.
 
 ## Status
 - [x] Project setup
-- [ ] Module 1: Data ingestion and star schema
+- [ongoing] Module 1: Data ingestion and star schema
 - [ ] Module 2: SQL analytics layer
 - [ ] Module 3: Risk engine (VaR, ES, GARCH)
 - [ ] Module 4: VaR backtesting
